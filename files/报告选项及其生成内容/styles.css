@@ -1,0 +1,78 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1686px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u129_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:837px;
+  height:335px;
+}
+#u129 {
+  border-width:0px;
+  position:absolute;
+  left:90px;
+  top:50px;
+  width:837px;
+  height:335px;
+  display:flex;
+}
+#u129 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u129_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u130_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1596px;
+  height:1780px;
+}
+#u130 {
+  border-width:0px;
+  position:absolute;
+  left:90px;
+  top:410px;
+  width:1596px;
+  height:1780px;
+  display:flex;
+}
+#u130 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u130_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}

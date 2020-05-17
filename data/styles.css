@@ -1,0 +1,207 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+  font-size:12px;
+}
+.box_2 {
+  font-size:12px;
+}
+.box_3 {
+  font-size:12px;
+}
+.ellipse {
+  font-size:12px;
+}
+._图片 {
+  font-size:12px;
+}
+.placeholder {
+  font-size:12px;
+}
+.button {
+  font-size:12px;
+}
+.primary_button {
+  font-size:12px;
+  color:#FFFFFF;
+}
+.marker {
+  font-size:12px;
+  color:#FFFFFF;
+}
+._一级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:12px;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.heading_1 {
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
+  font-weight:700;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.label {
+  font-size:12px;
+  text-align:left;
+}
+._文本段落 {
+  font-size:12px;
+  text-align:left;
+}
+._文本链接 {
+  font-size:12px;
+  color:#0000FF;
+}
+.text_link_mouse_over {
+  font-size:12px;
+}
+.text_link_mouse_down {
+  font-size:12px;
+}
+._表单提示 {
+  font-size:12px;
+  color:#999999;
+}
+._表单禁用 {
+  font-size:12px;
+}
+.line {
+  font-size:12px;
+}
+.text_field {
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  font-size:12px;
+  color:#000000;
+  text-align:left;
+}
+.checkbox {
+  font-size:12px;
+  text-align:left;
+}
+.radio_button {
+  font-size:12px;
+  text-align:left;
+}
+.table_cell {
+  font-size:12px;
+}
+.form_hint {
+  font-size:12px;
+  color:#999999;
+}
+.form_disabled {
+  font-size:12px;
+}
+._连接 {
+  font-size:12px;
+}
+.marker1 {
+  color:#FFFFFF;
+}
+._流程形状 {
+  font-size:12px;
+}
+._形状 {
+  font-size:12px;
+}
+.icon {
+  font-size:12px;
+}
+.shape {
+}
+.box_21 {
+}
+.ellipse1 {
+}
+.flow_shape {
+}
+.box_11 {
+}
+.radio_button1 {
+  text-align:left;
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.table_cell1 {
+}
+._图片_ {
+}
+._连接线 {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#000000;
+  text-align:center;
+  line-height:normal;
+}
+.link_button {
+  color:#169BD5;
+}
+.image {
+}
+._形状1 {
+}
+.html_button {
+  text-align:center;
+}
+textarea, select, input, button { outline: none; }
